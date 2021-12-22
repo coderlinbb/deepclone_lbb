@@ -1,0 +1,20 @@
+{
+  "name": "deepclone_lbb",
+  "version": "1.0.0",
+  "description": "实现深拷贝（Object、Array、Function、Symbol、Map、Set、引用关系）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linbb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderlinbb"
+  },
+  "homepage": "https://github.com/coderlinbb",
+  "keywords": [
+    "linbb",
+    "deepClone"
+  ]
+}
